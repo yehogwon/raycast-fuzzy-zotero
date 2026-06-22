@@ -1,2 +1,1 @@
-A fuzzy search on Raycast over the local Zotero database.
-
+A fork of the official Zotero plugin for Raycast that supports fuzzy search over the local Zotero database. For the official plugin, please visit [link](https://github.com/raycast/extensions/tree/efdc6d435e8e01be5d3640180ffbdc494f579399/extensions/zotero).
